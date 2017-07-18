@@ -1,0 +1,12 @@
+<code_scheme name="Default">
+  <option name="LAYOUT_STATIC_IMPORTS_SEPARATELY" value="false" />
+  <option name="IMPORT_LAYOUT_TABLE">
+    <value>
+      <package name="" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="javax" withSubpackages="true" static="false" />
+      <package name="java" withSubpackages="true" static="false" />
+      <emptyLine />
+    </value>
+  </option>
+</code_scheme>
