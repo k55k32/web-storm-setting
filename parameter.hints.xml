@@ -3,6 +3,7 @@
     <blacklists>
       <blacklist language="Java">
         <added pattern="com.google.common.collect.ImmutableMap.of(k1,v1)" />
+        <added pattern="java.lang.String.valueOf(data,offset,count)" />
       </blacklist>
     </blacklists>
   </component>
