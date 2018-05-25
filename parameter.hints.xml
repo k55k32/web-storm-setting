@@ -4,6 +4,7 @@
       <blacklist language="Java">
         <added pattern="com.google.common.collect.ImmutableMap.of(k1,v1)" />
         <added pattern="java.lang.String.valueOf(data,offset,count)" />
+        <added pattern="org.web3j.abi.datatypes.Function.Function(name,inputParameters,outputParameters)" />
       </blacklist>
     </blacklists>
   </component>
