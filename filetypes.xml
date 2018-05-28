@@ -5,6 +5,7 @@
       <mapping pattern="browse-record-mapping" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
+      <mapping pattern="lod-copy" type="PLAIN_TEXT" />
       <mapping ext="file" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
