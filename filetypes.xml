@@ -4,6 +4,7 @@
       <mapping ext="mwb" type="Native" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern="help-selling-notice-line" type="PLAIN_TEXT" />
+      <mapping pattern="a2" type="PLAIN_TEXT" />
       <mapping pattern="browse-record-mapping" type="PLAIN_TEXT" />
       <mapping pattern="lod-copy" type="PLAIN_TEXT" />
       <mapping pattern=".gitlab." type="PLAIN_TEXT" />
